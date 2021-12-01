@@ -295,7 +295,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rencrypt"
+name = "rustcrypt"
 version = "0.1.0"
 dependencies = [
  "aes-gcm",
